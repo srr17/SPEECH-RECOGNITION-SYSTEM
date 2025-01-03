@@ -2,8 +2,8 @@
 #include <WiFi101.h>
 
 // Wi-Fi credentials
-const char *ssid = "your_SSID"; // replace with your Wi-Fi SSID
-const char *password = "your_PASSWORD"; // replace with your Wi-Fi password
+const char *ssid = "Realme Narzo 50 Pro"; // replace with your Wi-Fi SSID
+const char *password = "12345678"; // replace with your Wi-Fi password
 
 // Your Google Cloud Speech API credentials (you must generate these in the Google Cloud console)
 const char* apiEndpoint = "https://speech.googleapis.com/v1p1beta1/speech:recognize";
